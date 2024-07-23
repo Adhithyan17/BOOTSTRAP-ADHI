@@ -1,1 +1,1 @@
-# bootstrap-website was developed by Ram
+# bootstrap-website was developed by Adhi
